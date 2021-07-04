@@ -1,4 +1,6 @@
-# Rust GUI test
+# Rust GUI example
+
+## Background
 
 I'm planning to use a GUI library for a application I'm writing.
 The library has to be simple and customizable.
